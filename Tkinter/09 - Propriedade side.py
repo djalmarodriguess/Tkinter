@@ -9,7 +9,6 @@ lb2 = Label(janela, text = 'RIGHT', bg = 'white')
 lb3 = Label(janela, text = 'BOTTOM', bg = 'white')
 lb4 = Label(janela, text = 'LEFT', bg = 'white')
 
-
 #Adicionar ao gerenciador de leiaute pack
 lb1.pack(side=TOP)
 lb2.pack(side=RIGHT)

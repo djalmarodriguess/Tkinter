@@ -9,7 +9,6 @@ def bt_click():
 #Modificar a Label para mostrar a mensagem na JANELA após clicar o botão
     lb['text'] = 'Logado'
 
-
 #Criar Botão, entrar com parametro "command" e informa a função.
 #OBS: Ao chamar a função no command não colocar as parênteses.
 bt = Button(janela, width = 20, text ="Entrar", command=bt_click)

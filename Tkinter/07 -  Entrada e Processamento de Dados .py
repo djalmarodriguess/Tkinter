@@ -10,7 +10,6 @@ def soma():
     else:
         lb['text'] = 'Valor informado inválido'
 
-
 janela = Tk()
 
 #Entra com um valores para somar 
