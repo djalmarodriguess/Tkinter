@@ -13,9 +13,4 @@ janela['bg'] = 'red'
 #300x300+100+100
 janela.geometry('700x300+100+100')
 
-
-
-
-
-
 janela.mainloop()
